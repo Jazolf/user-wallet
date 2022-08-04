@@ -1,0 +1,15 @@
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\bin\Debug\net6.0\Wallet.exe
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\bin\Debug\net6.0\Wallet.deps.json
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\bin\Debug\net6.0\Wallet.runtimeconfig.json
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\bin\Debug\net6.0\Wallet.dll
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\bin\Debug\net6.0\Wallet.pdb
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.csproj.AssemblyReference.cache
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.AssemblyInfoInputs.cache
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.AssemblyInfo.cs
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.csproj.CoreCompileInputs.cache
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.dll
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\refint\Wallet.dll
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.pdb
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\Wallet.genruntimeconfig.cache
+C:\Users\saminray\Desktop\cs\Wallet\Wallet\obj\Debug\net6.0\ref\Wallet.dll
